@@ -14,3 +14,4 @@
 <!-- referred to Activity 20-Stu_Inquirer-Users for writeToFile function as well as how to set up questions -->
 <!-- referred to this webpage for how to create line breaks https://www.markdownguide.org/basic-syntax/#:~:text=To%20create%20a%20line%20break,spaces%2C%20and%20then%20type%20return.-->
 <!-- referred to this webpage to help me with init function https://www.npmjs.com/package/inquirer -->
+<!-- referenced this webpage for how to word my prompts and set up a professional README: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide -->
