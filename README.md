@@ -39,15 +39,15 @@ Once you've completed installing the above programs onto your computer, initiali
 
 Now that you've installed the necessary programs and Node.js packages, follow these steps to use this application: 
 
-1. In the command line, make sure that you are in the correct directory, and use the command "node index" to initialize the application. 
+1. In the command line, make sure that you are in the correct directory and use the command "node index" to initialize the application. 
    
-2. Once you've done this, the application will ask you to input information that it will add to the README file it creates for you. If you need guidance on how to fill in a particular section of the README file, please refer to this [Professional READEME Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help.
+2. The application will begin asking for your input; this is the information that the application will add to the README file it creates for you. If you need guidance on how to fill in a particular section, please refer to this [Professional READEME Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help.
    
 3. Once you've gone through every prompt, go back to Visual Studio Code and navigate to the "yourREADME" folder. There, you will find a README.md file that will contain your dynamically generated README file. If you right click the READEME.md tab and move down the options to "Open Preview", you can see what your README will look like when it's viewed on GitHub. 
 
-4. If you'd like to modify your README after going through the prompts, you can do so in VS code before saving it.
+4. If you'd like to modify your README after going through the prompts, you can do so in Visual Studio Code.
    
-5. To save your README file, go to the top left corner in Visual Studio Code and select the option "Save as" and save the file to the folder of your choice.
+5. Once you're ready to save your README file, go to the top left corner in Visual Studio Code and select the option "Save as" and save the file to the folder of your choice.
 
 ## License 
 
