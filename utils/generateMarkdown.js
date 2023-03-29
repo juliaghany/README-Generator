@@ -7,7 +7,7 @@ function renderLicenseBadge(license) {
   if (license === "MIT") {
     return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   }
-  
+
   if (license === "Apache License 2.0") {
     return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
   }
@@ -19,31 +19,31 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
 
-      if (license === "MIT") {
-        return `https://opensource.org/license/mit/`
-      } else if (license === "Apache License 2.0") {
-        return `https://www.apache.org/licenses/LICENSE-2.0`
-      } else if (license === "GNU GPLv3") {
-        return `https://www.gnu.org/licenses/gpl-3.0.en.html`
-      } else {
-        return ``
-      }
-    }
+  if (license === "MIT") {
+    return `https://opensource.org/license/mit/`
+  } else if (license === "Apache License 2.0") {
+    return `https://www.apache.org/licenses/LICENSE-2.0`
+  } else if (license === "GNU GPLv3") {
+    return `https://www.gnu.org/licenses/gpl-3.0.en.html`
+  } else {
+    return ``
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-      if (license === "No License") {
-        return ``
-      } else {
-        return `#License 
-        This application is covered under the ${license} license:`
-      }
-    }
+  if (license === "No License") {
+    return ``
+  } else {
+    return `## License 
+  This application is covered under the ${license} license:`
+  }
+}
 
-  // TODO: Create a function to generate markdown for README
-  function generateMarkdown(data) {
-    return `# ${data.title}
+// TODO: Create a function to generate markdown for README
+function generateMarkdown(data) {
+  return `# ${data.title}
 
   ${renderLicenseBadge(data.license)}
 
@@ -86,6 +86,6 @@ function renderLicenseSection(license) {
 
 
 `;
-  }
+}
 
-  module.exports = generateMarkdown;
+module.exports = generateMarkdown;
