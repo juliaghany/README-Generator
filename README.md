@@ -13,8 +13,9 @@ This application will ask the user to include information such as: the project's
 ## Table Of Contents 
 - [Installation](#installation)<br>
 - [Usage](#usage)<br>
-- [Credits](#credits)<br>
 - [License](#license)<br>
+- [Credits](#credits)<br>
+
 
 ## Installation
 
