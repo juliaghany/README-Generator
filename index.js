@@ -8,12 +8,12 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Get ready to generate your README file! Please start by entering a title."
+        message: "Get ready to create your README file! Please start by entering your project's title."
     },
     {
         type: "input",
         name: "description",
-        message: "Please add a description of your application."
+        message: "Add a description of your application."
     },
     {
         type: "input",
@@ -29,12 +29,12 @@ const questions = [
         type: "list", 
         choices: ["MIT", "Apache License 2.0", "GNU GPLv3", "No License"],
         name: "license",
-        message: "Which license would you like to cover your application? (Use the arrow keys to navigate up and down the list, and hit enter once you've selected a license). If you choose not to have one, please select 'No License'."
+        message: "Which license would you like to cover your application? If you choose not to have one, please select 'No License'."
     },
     {
         type: "input",
         name: "contribute",
-        message: "Please include guildlines for how other developers can contribute to your application."
+        message: "Include guildlines for how other developers can contribute to your application."
     },
     {
         type: "input",
