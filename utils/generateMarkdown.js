@@ -70,7 +70,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
 
-  ## How to Contribute 
+  ## Contribute
   
   ${data.contribute}
 
