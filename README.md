@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Link to demonstration video: https://drive.google.com/file/d/1jhYJf0BjVL0TlLqH7hiHJ4lJlEgmKeQG/view
+
 ## Description 
 
 My motivation for this project was to learn how to create a command line application that dynamically generates a professional README.md file from user's input using the inquirer package. 

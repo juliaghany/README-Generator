@@ -16,11 +16,11 @@
 
   ## Installation 
   
-  Some other step
+  Some steps
 
   ## Usage
   
-  Some instructions
+  Some usage instructions
 
   ## License 
   This application is covered under the MIT license:
@@ -28,11 +28,11 @@
 
   ## Contribute
   
-  Some guidelines
+  Some contribution guidelines
 
   ## Tests
 
-  Some instructions
+  Some test instructions
 
   ## Questions
 
