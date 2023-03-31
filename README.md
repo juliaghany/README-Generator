@@ -70,3 +70,9 @@ This application is covered under the [MIT License](https://opensource.org/licen
 
 - I referred this webpage for how to word my prompts and set up a professional README: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
+## Questions
+
+If you'd like to view more of my work, please visit my GitHub profile: [juliaghany](https://github.com/juliaghany)
+
+If you have any questions about my work, you can reach me at: juliaghany@msn.com
+

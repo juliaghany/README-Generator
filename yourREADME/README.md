@@ -1,10 +1,10 @@
-# alskdjfasldfkja
+# Some Title
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
   
-  asdfljasdf
+  Some description
 
   ## Table of Contents 
   [Installation](#installation)<br>
@@ -16,27 +16,28 @@
 
   ## Installation 
   
-  dsalfkjsd
+  Some other step
 
   ## Usage
   
-  sldfkj
+  Some instructions
 
-  
-  
+  ## License 
+  This application is covered under the MIT license:
+  https://opensource.org/license/mit/
 
-  ## How to Contribute 
+  ## Contribute
   
-  saljfsad
+  Some guidelines
 
   ## Tests
 
-  sdalfkjdas
+  Some instructions
 
   ## Questions
 
-  Link to GitHub profile: [github.com/sdaklfj](https://github.com/sdaklfj)
+  Link to GitHub profile: [github.com/juliaghany](https://github.com/juliaghany)
 
-  You can reach me with any questions you may have at: sadlkfj
+  You can reach me with any questions you may have at: juliaghany@msn.com
 
 
