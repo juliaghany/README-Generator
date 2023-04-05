@@ -42,7 +42,7 @@ Once you've completed installing the above programs onto your computer, initiali
 
 Now that you've installed the necessary programs and Node.js packages, follow these steps to use this application: 
 
-1. In the command line, make sure that you are in the correct directory and use the command "node index" to initialize the application. 
+1. In the command line, make sure that you are in the correct directory and use the command "node index" to invoke the application. 
    
 2. The application will begin asking for your input; this is the information that the application will add to the README file it creates for you. If you need guidance on how to fill in a particular section, please refer to this [Professional READEME Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help.
    
